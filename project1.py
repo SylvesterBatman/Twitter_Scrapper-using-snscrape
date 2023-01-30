@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1wV_BSmTYDsskHhZ8dQSTupeX8b5hi2i1
 """
 
-pip install streamlit
+#pip install streamlit
 
 def main():
   st.title("Twitter Scrapper using snscrape")
