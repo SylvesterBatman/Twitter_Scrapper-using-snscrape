@@ -8,7 +8,7 @@ Original file is located at
 """
 
 #install snscrape
-pip install -q snscrape
+pip install snscrape
 
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
