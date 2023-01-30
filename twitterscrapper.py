@@ -47,8 +47,3 @@ print(type(data))
 py6=py["Twitter_Scrapper"]
 pycollection=py6["Batman"]
 pycollection.insert_one(data)
-
-pip install streamlit
-
-import streamlit as st
-import pandas as pd
