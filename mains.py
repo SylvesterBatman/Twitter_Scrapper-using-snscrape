@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import json
-import snscrape.base
 import snscrape.modules.twitter as sntwitter
 from pymongo import MongoClient
 import base64
